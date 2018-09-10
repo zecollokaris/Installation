@@ -57,3 +57,22 @@ https://github.com/creationix/nvm
 # **ANGULAR INSTALLATION**
 
 
+Angular is a platform that makes it easy to build applications with the web.
+
+We will install Angular CLI (Command Line Interface) that will help us create and develop our Angular apps
+
+## 1. **Installation**
+
+```
+npm install -g @angular/cli
+```
+
+This command will install the Angular CLI.
+
+## 1. **Confirmation**
+
+```
+ng
+```
+
+This will bring up a screen to show all the available ng commands. 
