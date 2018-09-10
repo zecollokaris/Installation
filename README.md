@@ -1,8 +1,10 @@
-# DESCRIPTION
+# **DESCRIPTION**
 
 This is an easy guide for installation 
 
-# NODE INSTALLATION
+---
+
+# **NODE INSTALLATION**
 
 **For Node.js 10:**
 
@@ -18,4 +20,23 @@ sudo apt-get install -y nodejs
 sudo apt-get install -y build-essential
 ```
 
-* Confirm Installation
+**To install Node on MAC SYSTEMS follow the Instructions from this**
+
+```
+http://blog.teamtreehouse.com/install-node-js-npm-mac
+```
+
+
+## **Confirm Installation**
+
+```
+npm -v 5.5.1
+```
+
+```
+node -v v9.2.0
+```
+
+We run npm -v to check the version of Node Package Manager Installed. And node -v to check if Node is installed.
+
+You should have node version higher than 9+ and npm 5+
