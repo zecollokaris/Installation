@@ -137,3 +137,19 @@ brew update
 ```
 brew install watchman
 ```
+
+# **ES6 And TypeScript INSTALLATION**
+
+TypeScript is a superset of ES6. Since most browsers do not support TypeScript we have to convert it to normal Javascript. The Process of converting TypeScript to normal ES5 is called transpilation. 
+
+## 1. **Installation**
+
+```
+npm install -g typescript
+```
+
+## 1. **Confirmation**
+
+```
+tsc -v
+```
