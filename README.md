@@ -15,6 +15,7 @@ curl -sL https://deb.nodesource.com/setup_10.x | sudo -E bash -
 sudo apt-get install -y nodejs
 ```
 
+# **NPM**
 
 **To compile and install native addons from npm you may also need to install build tools:**
 
@@ -26,6 +27,18 @@ sudo apt-get install -y build-essential
 
 ```
 http://blog.teamtreehouse.com/install-node-js-npm-mac
+```
+
+## **Update Npm**
+
+I would be useful to update npm to avoid this error when deploying.
+
+**{{ Name of your token (example: NGH Macbook): (node:8245) [DEP0022] DeprecationWarning: os.tmpDir() is deprecated. Use os.tmpdir() instead. }}**
+
+- To update use 
+
+```
+sudo npm i -g npm 
 ```
 
 ## **Confirm Installation**
