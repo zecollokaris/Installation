@@ -167,27 +167,3 @@ npm install -g typescript
 tsc -v
 ```
 
-# **Java INSTALLATION linux MacOS**
-
-## Download and install the Java SDK
-
-*To download Java Standard Edition Development Kit.*
-
-#### Link for File Package Download:
-
-```
-https://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html
-```
-
-#### Linux Terminal Install.
-
-*To install on linux through Terminal*
-
-Just type in ```java``` on the terminal and it will recomend ways to install.
-
-**Preferably you could use**
-
-```
-sudo apt install openjdk-9-jre-headless
-```
-
