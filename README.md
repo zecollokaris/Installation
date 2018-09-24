@@ -33,7 +33,7 @@ http://blog.teamtreehouse.com/install-node-js-npm-mac
 
 I would be useful to update npm to avoid this error when deploying.
 
-**{{ Name of your token (example: NGH Macbook): (node:8245) [DEP0022] DeprecationWarning: os.tmpDir() is deprecated. Use os.tmpdir() instead. }}**
+**Name of your token (example: NGH Macbook): (node:8245) [DEP0022] DeprecationWarning: os.tmpDir() is deprecated. Use os.tmpdir() instead.**
 
 - To update use 
 
@@ -166,3 +166,28 @@ npm install -g typescript
 ```
 tsc -v
 ```
+
+# **Java INSTALLATION linux MacOS**
+
+## Download and install the Java SDK
+
+*To download Java Standard Edition Development Kit.*
+
+#### Link for File Package Download:
+
+```
+https://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html
+```
+
+#### Linux Terminal Install.
+
+*To install on linux through Terminal*
+
+Just type in ```java``` on the terminal and it will recomend ways to install.
+
+**Preferably you could use**
+
+```
+sudo apt install openjdk-9-jre-headless
+```
+
