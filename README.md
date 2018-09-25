@@ -167,3 +167,14 @@ npm install -g typescript
 tsc -v
 ```
 
+# **JAVA INSTALLATION**
+
+To get started, we need to install the Java development kit (Java SDK) that allows us to create Java applications and the Java Runtime Environment (JRE) which provides the requirements for executing a Java application.
+
+## Installing Java on Ubuntu
+
+Follow the instructions highlighted on
+
+```
+https://www.wikihow.com/Install-Oracle-Java-on-Ubuntu-Linux
+```
