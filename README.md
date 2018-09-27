@@ -178,3 +178,24 @@ Follow the instructions highlighted on
 ```
 https://www.wikihow.com/Install-Oracle-Java-on-Ubuntu-Linux
 ```
+
+# ANDROID GRADLE
+
+## Linux Install.
+
+#### Install Gradle Terminal Command
+ 
+1. 
+```
+sudo add-apt-repository ppa:cwchien/gradle
+```
+
+2. 
+```
+sudo apt-get update
+```
+
+3. 
+```
+sudo apt upgrade gradle
+```
